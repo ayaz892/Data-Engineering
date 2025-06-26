@@ -1,0 +1,83 @@
+ **Chapter 1: What is Data Engineering?**
+
+* Explains the concept of data engineering and its relation to big data.
+* Distinguishes **data engineers** from **data scientists**.
+* Introduces the concept of **data pipelines** as a core responsibility of data engineers.
+
+---
+
+**Chapter 2: Data Storage**
+
+* Covers **data structures** and **data storage types**.
+* Emphasizes the importance of **SQL** in data engineering.
+* Explores common **data storage solutions**.
+
+---
+
+**Chapter 3: Data Processing**
+
+* Focuses on **data processing methods** and **tools**.
+* Introduces **scheduling**, **parallel computing**, and **cloud computing**.
+
+---
+
+**Spotflix Case Study**
+
+* A fictional company called **Spotflix** is used to illustrate real-world data engineering implementations throughout the course.
+
+---
+
+**Data Workflow Overview**
+
+Data flows through four general stages in an organization:
+
+1. **Ingestion**: Collecting data from various sources like web traffic, surveys, or media consumption.
+2. **Preparation**: Cleaning data (e.g., handling missing or duplicate values), and converting it into a structured format.
+3. **Exploration**: Analyzing and visualizing data, creating dashboards, and comparing data sets.
+4. **Experimentation**: Running experiments and building predictive models (e.g., forecasting or A/B testing).
+
+---
+
+**Role of Data Engineers**
+
+* Focus on **ingesting and storing data**.
+* Lay the foundation for data analysts, scientists, and ML engineers.
+* Ensure data is **organized**, **accessible**, and **usable**.
+
+---
+
+**Responsibilities of a Data Engineer**
+
+* Ingest data from multiple sources.
+* Optimize databases for analysis.
+* Manage data quality and handle data corruption.
+* Design, develop, test, and maintain **data architectures** and **large-scale processing systems**.
+
+---
+
+**Data Engineers and Big Data**
+
+* The demand for data engineers is rising due to the growth of **big data**.
+* Big data involves data that is **too large** to be processed using traditional tools.
+
+---
+**Growth of Big Data**
+
+* Big data is primarily generated from:
+
+  * Sensors and devices
+  * Social media
+  * Enterprise systems
+  * VoIP communication
+
+---
+
+ **The Five Vs of Big Data**
+
+1. **Volume** – The massive amount of data.
+2. **Variety** – Different types and formats of data (text, image, video, etc.).
+3. **Velocity** – The speed at which data is generated and processed.
+4. **Veracity** – The trustworthiness and quality of data.
+5. **Value** – The usefulness and actionability of the data.
+
+---
